@@ -6,7 +6,6 @@ import ifcopenshell
 def main():
   ifc4 = ifcopenshell.schema_by_name("IFC4")
   
-  
   for declaration in ifc4.declarations():
       print(declaration.name()) # 'IfcAbsorbedDoseMeasure', 'IfcAccelerationMeasure', 'IfcActionRequest', ...
   
