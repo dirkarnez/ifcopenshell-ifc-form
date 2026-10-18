@@ -8,3 +8,4 @@ https://wasm.ifcopenshell.org/
 
 ### TODO
 - use https://github.com/buildingSMART/IFC4.x-development
+  - https://github.com/buildingSMART/IFC4.x-development/blob/ifc4.3-main/.github/workflows/publish-output.yml
