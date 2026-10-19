@@ -7,8 +7,9 @@ https://wasm.ifcopenshell.org/
 [Installation - IfcOpenShell 0.8.5 documentation](https://docs.ifcopenshell.org/ifcopenshell-python/installation.html#web-assembly)
 
 ### TODO
-- use https://github.com/buildingSMART/IFC4.x-development
+- [x] use https://github.com/buildingSMART/IFC4.x-development
   - https://github.com/buildingSMART/IFC4.x-development/blob/ifc4.3-main/.github/workflows/publish-output.yml
+- [ ] Map translations
 
 ### Documentation
 - [IFC4.3.2.0 Documentation](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_3/index.html)
