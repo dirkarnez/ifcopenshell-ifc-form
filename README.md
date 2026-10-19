@@ -9,3 +9,9 @@ https://wasm.ifcopenshell.org/
 ### TODO
 - use https://github.com/buildingSMART/IFC4.x-development
   - https://github.com/buildingSMART/IFC4.x-development/blob/ifc4.3-main/.github/workflows/publish-output.yml
+
+### Documentation
+- [IFC4.3.2.0 Documentation](https://standards.buildingsmart.org/IFC/RELEASE/IFC4_3/index.html)
+
+### Using
+- [dirkarnez/ifc-schemas-prebuilt](https://github.com/dirkarnez/ifc-schemas-prebuilt)
